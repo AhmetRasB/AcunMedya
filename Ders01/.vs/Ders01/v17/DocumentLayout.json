@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\AcunMedya\\Ders01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29ABC6E3-1CF1-4FA7-BF6C-C15C948383F5}|Ders01\\Ders01.csproj|c:\\projects\\acunmedya\\ders01\\ders01\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{29ABC6E3-1CF1-4FA7-BF6C-C15C948383F5}|Ders01\\Ders01.csproj|solutionrelative:ders01\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29ABC6E3-1CF1-4FA7-BF6C-C15C948383F5}|Ders01\\Ders01.csproj|c:\\projects\\acunmedya\\ders01\\ders01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29ABC6E3-1CF1-4FA7-BF6C-C15C948383F5}|Ders01\\Ders01.csproj|solutionrelative:ders01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders01\\Ders01\\Readme.md",
+              "RelativeDocumentMoniker": "Ders01\\Readme.md",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders01\\Ders01\\Readme.md",
+              "RelativeToolTip": "Ders01\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-15T08:59:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders01\\Ders01\\Program.cs",
               "RelativeDocumentMoniker": "Ders01\\Program.cs",
