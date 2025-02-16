@@ -12,3 +12,4 @@ C:\Projects\AcunMedya\Ders01\Ders01\obj\Debug\net8.0\refint\Ders01.dll
 C:\Projects\AcunMedya\Ders01\Ders01\obj\Debug\net8.0\Ders01.pdb
 C:\Projects\AcunMedya\Ders01\Ders01\obj\Debug\net8.0\Ders01.genruntimeconfig.cache
 C:\Projects\AcunMedya\Ders01\Ders01\obj\Debug\net8.0\ref\Ders01.dll
+C:\Projects\AcunMedya\Ders01\Ders01\obj\Debug\net8.0\Ders01.sourcelink.json
