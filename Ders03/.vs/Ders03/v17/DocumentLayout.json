@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AcunMedya\\Ders03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|c:\\projects\\acunmedya\\ders03\\ders03\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEA9FD-7C1C-42A3-AB73-DE1EA02DA160}|Ders03\\Ders03.csproj|solutionrelative:ders03\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Program.cs",
+              "RelativeDocumentMoniker": "Ders03\\Program.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Program.cs",
+              "RelativeToolTip": "Ders03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:34:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\User.cs",
+              "RelativeDocumentMoniker": "Ders03\\User.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\User.cs",
+              "RelativeToolTip": "Ders03\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:30:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Ders03\\StudentManager.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\StudentManager.cs",
+              "RelativeToolTip": "Ders03\\StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:28:09.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Student.cs",
+              "RelativeDocumentMoniker": "Ders03\\Student.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Student.cs",
+              "RelativeToolTip": "Ders03\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:27:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Instructor.cs",
+              "RelativeDocumentMoniker": "Ders03\\Instructor.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\Instructor.cs",
+              "RelativeToolTip": "Ders03\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:27:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ders03\\BaseEntity.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders03\\Ders03\\BaseEntity.cs",
+              "RelativeToolTip": "Ders03\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:18:09.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
