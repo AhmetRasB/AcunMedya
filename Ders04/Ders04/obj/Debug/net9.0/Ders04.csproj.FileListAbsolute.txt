@@ -1,0 +1,15 @@
+C:\Projects\AcunMedya\Ders04\Ders04\bin\Debug\net9.0\Ders04.exe
+C:\Projects\AcunMedya\Ders04\Ders04\bin\Debug\net9.0\Ders04.deps.json
+C:\Projects\AcunMedya\Ders04\Ders04\bin\Debug\net9.0\Ders04.runtimeconfig.json
+C:\Projects\AcunMedya\Ders04\Ders04\bin\Debug\net9.0\Ders04.dll
+C:\Projects\AcunMedya\Ders04\Ders04\bin\Debug\net9.0\Ders04.pdb
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.AssemblyInfoInputs.cache
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.AssemblyInfo.cs
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.csproj.CoreCompileInputs.cache
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.sourcelink.json
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.dll
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\refint\Ders04.dll
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.pdb
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\Ders04.genruntimeconfig.cache
+C:\Projects\AcunMedya\Ders04\Ders04\obj\Debug\net9.0\ref\Ders04.dll

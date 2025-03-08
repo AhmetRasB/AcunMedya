@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\dataaccess\\concretes\\inmemory\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\inmemory\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\dataaccess\\concretes\\entityframework\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\entityframework\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640827E0-B9B1-4B0B-A9EA-F33F3C4A881A}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640827E0-B9B1-4B0B-A9EA-F33F3C4A881A}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\dataaccess\\concretes\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|solutionrelative:business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\business\\concretes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|solutionrelative:business\\concretes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|solutionrelative:business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\dataaccess\\abstracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\dataaccess\\abstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FC837-F569-46FE-9331-CDC8EFB0AD30}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F016E5AC-C30C-49BE-947D-307103A270C6}|Core\\Core.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016E5AC-C30C-49BE-947D-307103A270C6}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F016E5AC-C30C-49BE-947D-307103A270C6}|Core\\Core.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016E5AC-C30C-49BE-947D-307103A270C6}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EE1F4C-6D77-46EB-A931-D4ADB1BC9E97}|Entities\\Entities.csproj|solutionrelative:entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|c:\\projects\\acunmedya\\ders05\\consoleapp1\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9D114-8DEE-4349-BFA2-9B91E7B0025D}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Concretes\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\ProductManager.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Concretes\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:54:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:52:39.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\EntityFramework\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\EntityFramework\\EfCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:50:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:17:20.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\EntityFramework\\EfProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\EntityFramework\\EfProductRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\EntityFramework\\EfProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\EntityFramework\\EfProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:32:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:18:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:23:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\InMemory\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\InMemory\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Concretes\\InMemory\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\InMemory\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:41:19.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\ProductManager.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\ProductManager.cs",
+              "RelativeToolTip": "Business\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:34:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Abstracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Abstracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:50:48.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Abstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\DataAccess\\Abstracts\\IProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:46:32.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:22:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:21:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Entities\\Class1.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Entities\\Class1.cs",
+              "RelativeToolTip": "Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:16:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\Ders05\\ConsoleApp1\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:16:25.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿3) Abstract class nedir ? Interface nedir ? Araştırınız.
+
+Abstract class, soyut sınıf olarak bilinir ve nesne oluşturulamaz. Diğer sınıflar tarafından miras alınarak kullanılır. İçerisinde hem gövdesi olan hem de olmayan metotlar bulunabilir.
+
+Interface, arayüz olarak bilinir ve sadece metot imzalarını içerir. Bir sınıf birden fazla interface'i uygulayabilir. Interface'ler çoklu kalıtım için kullanılır.
+
+4) Abstract class ile interface arasındaki farklar nelerdir? Araştırınız.
+
+- Abstract class içerisinde hem gövdesi olan hem de olmayan metotlar bulunabilir, interface ise sadece metot imzalarını içerir.
+- Bir sınıf sadece bir abstract class'ı miras alabilir, ancak birden fazla interface'i uygulayabilir.
+- Abstract class içerisinde field'lar bulunabilir, interface içerisinde bulunamaz.
+- Abstract class constructor içerebilir, interface constructor içeremez.
+
+5) Abstract class ve interface ile 2’şer örnek yapınız.
+
+Abstract class örnekleri:
+1. 
+public abstract class Shape { public abstract double CalculateArea(); }
+public class Circle : Shape { public double Radius { get; set; }
+public override double CalculateArea()
+{
+    return Math.PI * Radius * Radius;
+}
+2. 
+public abstract class Animal { public abstract void MakeSound(); }
+public class Dog : Animal { public override void MakeSound() { Console.WriteLine("Bark"); } }
+
+Interface örnekleri:
+1. 
+public interface IDrawable { void Draw(); }
+public class Rectangle : IDrawable { public void Draw() { Console.WriteLine("Drawing a rectangle"); } }
+
+2. 
+public interface IFlyable { void Fly(); }
+public class Bird : IFlyable { public void Fly() { Console.WriteLine("Flying"); } }
