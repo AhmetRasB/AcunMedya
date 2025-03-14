@@ -1,0 +1,15 @@
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.exe
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.deps.json
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.runtimeconfig.json
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.dll
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.pdb
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.AssemblyInfo.cs
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.sourcelink.json
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.dll
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\refint\ConsoleApp5.dll
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.pdb
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.genruntimeconfig.cache
+C:\Projects\AcunMedya\Ders04\Homework04\ConsoleApp1\ConsoleApp5\obj\Debug\net9.0\ref\ConsoleApp5.dll
