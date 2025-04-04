@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mart1Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a205ba4bde546eaf301dda1002e6e9c617c7572e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c2c46150efedd04c5d703f2e422ed4a1e21ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mart1Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mart1Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

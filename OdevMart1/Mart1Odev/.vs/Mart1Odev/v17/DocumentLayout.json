@@ -70,8 +70,7 @@
               "RelativeToolTip": "Mart1Odev\\Business\\TechnologyManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:26:41.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:26:41.42Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "Mart1Odev\\Business\\ITechnologyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:26:22.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:26:22.106Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Mart1Odev\\Business\\ProgrammingLanguageManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:26:04.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:26:04.894Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Mart1Odev\\Business\\IProgrammingLanguageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:25:36.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:25:36.584Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Mart1Odev\\DataAccess\\TechnologyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:25:16.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:25:16.109Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Mart1Odev\\DataAccess\\ProgrammingLanguageRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:24:53.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:24:53.119Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Mart1Odev\\DataAccess\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:24:28.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:24:28.708Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Mart1Odev\\Entities\\Technology.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:24:07.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:24:07.207Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "Mart1Odev\\Entities\\ProgrammingLanguage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:23:09.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:23:09.074Z"
             }
           ]
         }

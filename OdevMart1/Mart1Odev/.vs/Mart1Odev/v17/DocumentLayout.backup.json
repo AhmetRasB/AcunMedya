@@ -5,6 +5,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\business\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\business\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|c:\\projects\\acunmedya\\odevmart1\\mart1odev\\mart1odev\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB73A888-C19B-4A18-8495-FDDFD1E7B8B2}|Mart1Odev\\Mart1Odev.csproj|solutionrelative:mart1odev\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +62,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechnologyManager.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\TechnologyManager.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Business\\TechnologyManager.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\TechnologyManager.cs",
+              "RelativeToolTip": "Mart1Odev\\Business\\TechnologyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:26:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITechnologyService.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\ITechnologyService.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Business\\ITechnologyService.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\ITechnologyService.cs",
+              "RelativeToolTip": "Mart1Odev\\Business\\ITechnologyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:26:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgrammingLanguageManager.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Business\\ProgrammingLanguageManager.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeToolTip": "Mart1Odev\\Business\\ProgrammingLanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:26:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Program.cs",
               "RelativeDocumentMoniker": "Mart1Odev\\Program.cs",
               "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Program.cs",
               "RelativeToolTip": "Mart1Odev\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T10:21:13.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProgrammingLanguageService.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\IProgrammingLanguageService.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Business\\IProgrammingLanguageService.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Business\\IProgrammingLanguageService.cs",
+              "RelativeToolTip": "Mart1Odev\\Business\\IProgrammingLanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:25:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnologyRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\TechnologyRepository.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\DataAccess\\TechnologyRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\TechnologyRepository.cs",
+              "RelativeToolTip": "Mart1Odev\\DataAccess\\TechnologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:25:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeToolTip": "Mart1Odev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:24:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\DataAccess\\IRepository.cs",
+              "RelativeToolTip": "Mart1Odev\\DataAccess\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:24:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Entities\\Technology.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Entities\\Technology.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Entities\\Technology.cs",
+              "RelativeToolTip": "Mart1Odev\\Entities\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:24:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Entities\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "Mart1Odev\\Entities\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Projects\\AcunMedya\\OdevMart1\\Mart1Odev\\Mart1Odev\\Entities\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "Mart1Odev\\Entities\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:23:09.074Z",
               "EditorCaption": ""
             }
           ]
