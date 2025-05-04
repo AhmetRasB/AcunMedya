@@ -1,0 +1,6 @@
+@Nisan04_HostAddress = http://localhost:5083
+
+GET {{Nisan04_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
