@@ -1,0 +1,6 @@
+@Mayis2_HostAddress = http://localhost:5112
+
+GET {{Mayis2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
